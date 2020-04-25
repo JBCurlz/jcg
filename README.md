@@ -7,9 +7,13 @@ This is my repository for Jessamine Creek Gorge in GEO409! (called rrg for class
 ## Lab 7 Update: Cliffs in Jessamine Creek Gorge and an Aerial Tour
 
 This map shows where cliffs are located directly surrounding Jessamine Falls.
-![JessFallCliffs](JessFallsCliffs.png)
+![JessFallCliffs](JessFallsCliffs.jpg)
 
 [This link will take you to an aerial tour past Jessamine Falls!](https://www.youtube.com/watch?v=C5QH-pajTf8)
+
+(or watch it here
+)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C5QH-pajTf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## A Base map of Jessamine Creek Gorge (Lab 6)
 [Download a GeoPDF of Jessamine Creek Gorge](basemap/jcg.pdf)
