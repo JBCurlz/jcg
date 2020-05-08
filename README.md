@@ -1,6 +1,6 @@
 # Jessamine Creek Gorge (JCG)
-This is my repository for Jessamine Creek Gorge in GEO409! (called rrg for class consistency). From here I can share my maps with the world!
-## Check out this Project!
+Welcome to my mapping repository for Jessamine Creek Gorge in GEO409! (called rrg for class consistency). From here you can find the many maps I have made of JCG for class!
+## Check Out This Project
 
 ## [Home](https://JBCurlz.github.io/rrg) | [Cliff Index (L8)](L8/index.html) | [Mapbox Webmap (L8)](L8/map.html) | [Videographic Tour (L7)](https://www.youtube.com/watch?v=C5QH-pajTf8) | [GeoPDF of JCG (L6)](basemap/jcg.pdf)
 
