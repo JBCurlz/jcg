@@ -1,7 +1,7 @@
 # Jessamine Creek Gorge (JCG)
-Welcome to my mapping repository for Jessamine Creek Gorge in GEO409! (called rrg for class consistency). From here you can find the many maps I have made of JCG for class!
+Welcome to my mapping repository for Jessamine Creek Gorge for Boyd Shearer's GEO409!. From here you can find the many maps I have made of JCG for class!
 
-The Jessamine Creek Gorge Area is home to Jessamine Falls, a waterfall flowing down from one of the many steep cliff faces formed by the karst landscape. Jessamine Falls feeds directly into Jessamine Creek, which continues to the Kentucky River greater Palisades.
+The Jessamine Creek Gorge Area is home to Overstreet (Jessamine) Falls, a waterfall flowing down from one of the many steep cliff faces formed by the karst landscape. Jessamine Falls feeds directly into Jessamine Creek, which continues to the Kentucky River greater Palisades.
 ## Check Out This Project
 
 ## [Home](https://JBCurlz.github.io/rrg) | [Cliff Index (L8)](L8/index.html) | [Mapbox Webmap (L8)](L8/map.html) | [Videographic Tour (L7)](https://www.youtube.com/watch?v=C5QH-pajTf8) | [GeoPDF of JCG (L6)](basemap/jcg.pdf)
